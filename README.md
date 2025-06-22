@@ -65,6 +65,8 @@ The project includes a Tableau visualization dashboard with:
 - Filters for year, quarter, and county
 - Forecasting using Tableau's built-in model
 
+This is the link of the Tableau Dashboard: https://public.tableau.com/views/ColoradoMotorVehicleSales/ColoradoVehicleSales2008-2015?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## 📌 Results & Takeaways
 
 - Vehicle sales exhibit clear seasonal trends (peaking in Q2–Q3).
